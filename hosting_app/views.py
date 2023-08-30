@@ -7,8 +7,8 @@ def home(request):
     html = f'''
     <html>
         <body>
-            <h1>Hello from Vercel!</h1>
-            <p>The current time is </p>
+            <h1>Prasanth</h1>
+            <p>From django </p>
         </body>
     </html>
     '''
