@@ -8,7 +8,8 @@ def home(request):
     <html>
         <body>
             <h1>Prasanth</h1>
-            <p>From django </p>
+            <h1>Tesing vercel deployment </h1> 
+            <p>using django </p>
         </body>
     </html>
     '''
